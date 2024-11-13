@@ -57,3 +57,42 @@
 
 
 </html>
+
+
+
+body {
+color:white;
+background:rgb(0,0,0);
+margin: 0px;
+font-family: "Playwrite GB S", cursive;
+}
+
+header {
+    border-bottom: solid 2px rgb(42,122,228);
+padding:20px;
+font-size: 32px;
+color:rgb(42,122,228);
+}
+
+section{
+ background: rgb(248,239,155);
+ padding-bottom: 80px;
+ padding-top: 80px;
+ display: flex;
+ justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%;
+
+}
+h1{
+  font-size: 40px;
+}
+
+p {
+  font-size: 20px;
+}
+img {
+  height: 200px
+}
